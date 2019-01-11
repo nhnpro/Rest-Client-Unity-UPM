@@ -1,0 +1,14 @@
+{
+	"name": "com.namnh.rest-client-unity",
+	"version": "0.0.1",
+	"displayName": "NHN-REST-Client",
+	"unity": "2018.1",
+	"description": "REST Client Library For Unity (WIP By 1B-NamNH)",
+	"keywords": ["restclient", "rest client", "rest"],
+	"category": "Network",
+	"author": {
+		"name": "NamNH-1B"
+	},
+	"dependencies": {
+	}
+}
